@@ -1,0 +1,6 @@
+[submodule "boirlerplat-npm"]
+	path = boirlerplat-npm
+	url = https://github.com/freeCodeCamp/boilerplate-npm.git
+[submodule "boirlerplate-npm"]
+	path = boirlerplate-npm
+	url = https://github.com/freeCodeCamp/boilerplate-npm.git
